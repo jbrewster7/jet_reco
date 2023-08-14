@@ -1,4 +1,2 @@
 # fastjet
-Figuring out fastjet/Coffea interface.
-
-Making sure this all works.
+Originally this was for figuring out fastjet/coffea interface. Now, using this as a base for all my jet reconstruction stuff.
